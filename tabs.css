@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.buttons button{
+    margin: 5px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    border: 0;
+    border-radius: 8px; 
+    background: #6fcf97;
+    text-align: center;
+}
+.aboutSec{    
+    border-radius: 15px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    background: #56ccf2;
+}
+.timeToVisit{    
+    border-radius: 15px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    background: #56ccf2;
+}
+.attractions{    
+    border-radius: 15px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    background: #56ccf2;  
+    align-items:flex-start
